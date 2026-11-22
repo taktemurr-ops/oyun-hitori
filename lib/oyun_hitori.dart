@@ -35,7 +35,7 @@ final hitoriConfig = GameConfig(
       'Kun én gang',
       'Bare én gang',
       'Vain kerran',
-      'ひとりにしてくれ',
+      'ひとつだけ',
       '한 번만',
       '只留一个',
       'सिर्फ़ एक बार',
